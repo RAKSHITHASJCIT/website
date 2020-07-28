@@ -1,0 +1,111 @@
+body{
+  margin:0px;
+  text-align:center;
+}
+h1{
+  margin-top: 40px;
+  font-family: "Merriweather",cursive;
+  font-size:40px;
+  color:#29c7ac;
+}
+h2{
+  font-family:"Merriweather",serif;
+  font-size: 30px;
+  color: #29c7ac;
+}
+.top-container{
+  background-color: #e4f9ff;
+  padding-top:40px;
+  position: relative;
+}
+.bcloud{
+
+  margin-right: 600px;
+}
+.tcloud{
+
+  margin-left: 700px;
+}
+.first{
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  float: left;
+  margin-right: 30px;
+}
+.second{
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  float: right;
+}
+.skill-row{
+  width: 50%;
+  margin:80px auto 80px auto;
+  text-align: left;
+  line-height: 2;
+}
+.my{
+  height: 170px;
+  width: 170px;
+  border-radius: 100px;
+}
+hr{
+     border-style: dotted none none none;
+     border-width: 10px;
+     width: 70px;
+     color: #7fdbda;
+}
+.ii{
+  font-size: 20px;
+}
+.pp{
+  font-size: 20px;
+}
+.ll{
+  font-size: 20px;
+}
+.a{
+  margin-right:500px;
+  float: left;
+}
+p{
+  font-size: 20px;
+
+}
+a:hover{
+  color: #81f5ff;
+}
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button2 {
+  background-color: white;
+  color: black;
+  border: 2px solid #008CBA;
+  border-radius: 100px;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+.contact-me{
+  margin: 50px auto 50px auto;
+}
+.bottom-container{
+  background-color: #bbe1fa;
+}
+.bb{
+  background-color: #bbe1fa;
+}
